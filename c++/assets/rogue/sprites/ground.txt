@@ -1,0 +1,15 @@
+dark floor = 0 0 40 40
+dirt floor = 40 0 40 40
+hidden = 80 0 40 40
+wall e = 0 40 40 40
+wall n = 40 40 40 40
+wall ne = 0 80 40 40
+wall ne_out = 40 80 40 40
+wall nw = 80 40 40 40
+wall nw_out = 80 80 40 40
+wall s = 120 0 40 40
+wall se = 120 40 40 40
+wall se_out = 160 0 40 40
+wall sw = 120 80 40 40
+wall sw_out = 160 40 40 40
+wall w = 200 0 40 40
